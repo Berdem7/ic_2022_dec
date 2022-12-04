@@ -4,13 +4,13 @@ import logo from "./party.png";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        {/* Invescore Happy Hour */}
-        <a href="https://www.vectorstock.com/royalty-free-vector/lightning-bolt-set-neon-signs-design-template-vector-43755560"></a>
+      {/* <header className="App-header"> */}
+      {/* Invescore Happy Hour */}
+      {/* <a href="https://www.vectorstock.com/royalty-free-vector/lightning-bolt-set-neon-signs-design-template-vector-43755560"></a>
         <p>
           <a href="https://giphy.com/gifs/neon-dark-sphere-MBfLHGvyyeQgH8UknX"></a>
-        </p>
-      </header>
+        </p> */}
+      {/* </header> */}
       <div className="container mx-auto columns-2">
         <div>
           <img className="max-w-full" src={logo} alt="" />
